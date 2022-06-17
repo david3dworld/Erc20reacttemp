@@ -1,0 +1,6 @@
+ethers.Contract();
+ethers.provider.getSigner();
+ethers.provider;
+ethers.Singer;
+BigNumber.from(20);
+ethers.utils.parseEther("20");
